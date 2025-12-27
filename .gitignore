@@ -1,2 +1,8 @@
 cic_env/
 cic_env/
+*.csv
+*.pcap
+cic_env/
+venv/
+__pycache__/
+data/
